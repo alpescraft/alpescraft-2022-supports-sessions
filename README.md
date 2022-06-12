@@ -20,10 +20,17 @@
 
 * Bientôt
 
-## Experiencing team flow ([Michel Grootjans](https://twitter.com/michelgrootjans))
-
-* [Support / Diaporama](./files/experiencing_team_flow.pdf)
-
+## Experiencing team flow ([Michel Grootjans](https://twitter.com/michelgrootjans)) ![](https://www.gravatar.com/avatar/a8aadeed64d0c69df05b0c3d40ae9471?s=25)
+[Support / Diaporama](./files/experiencing_team_flow.pdf)
+### Atelier
+![tableau atelier flow](files/flow-atelier-board.jpg)
+* [jeu](https://afternoon-bayou-75731.herokuapp.com/)
+* [code + explications](https://github.com/michelgrootjans/dot-game)
+### Simulation
+![simulation flow](files/flow-simulation.jpg)
+* [simulation](https://michelgrootjans.github.io/explaining-flow/)
+* [code + explications](https://github.com/michelgrootjans/explaining-flow)
+* [enregistrement youtube (en anglais)](https://www.youtube.com/watch?v=bhpQKA9XYcE)
 
 ## Ecrire des tests Antifragiles & orientés métier grâce à l'Outside-in Diamond 🔷 TDD ([Thomas Pierrain](https://twitter.com/tpierrain))
 
