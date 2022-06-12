@@ -80,6 +80,7 @@
 ## Le TDD sans commencer par les tests ([Victor Lambret](https://twitter.com/VictorLambret))
 
 * [Support / Diaporama](./files/tdd_sans_commencer_par_les_tests.pdf)
+* [Liens vers les publications scientifiques](https://github.com/VLambret/talks)
 
 ## Back To Basics : SRP ([Michelle Avomo](https://twitter.com/michelle_avomo) et [Christophe Thibaut](http://twitter.com/ToF_))
 
