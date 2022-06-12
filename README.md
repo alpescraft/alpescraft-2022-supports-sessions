@@ -55,7 +55,7 @@
 
 ## Rendez vos développeurs autonomes sur la production ([Mathieu Corbin](https://twitter.com/_mcorbin))
 
-* Bientôt
+* [Support / Diaporama](https://www.mcorbin.fr/pdf/slides/dev_autonomes_prod.pdf)
 
 ## Introduction au T(ype)DD avec F# ([Clément Bouillier](https://twitter.com/clem_bouillier) et [Florent Pellet](https://twitter.com/florentpellet))
 
