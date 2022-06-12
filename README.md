@@ -34,7 +34,8 @@
 
 ## Architecture Hexagonale : un pattern de gestion de la complexité logicielle et de la dette technique ([Julien Topçu](https://twitter.com/JulienTopcu))
 
-* Bientôt
+* [Support / Diaporama](https://slides.com/julientopcu/architecture-hexagonale-un-pattern-de-gestion-de-la-complexit-logicielle-et-de-la-dette-technique)
+* [Sources](https://gitlab.com/beyondxscratch/hexagonal-architecture-java-springboot/)
 
 ## Jeu du frigo ([Michelle Avomo](https://twitter.com/michelle_avomo) et [Christophe Thibaut](http://twitter.com/ToF_))
 
