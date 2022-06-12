@@ -63,7 +63,7 @@
 
 ## Stratégie de tests agile ([Nicolas Fedou](https://twitter.com/CoulasFedou))
 
-* Bientôt
+* [Support / Diaporama](./files/strategies_de_tests_agile.pdf)
 
 ## Les classes abstraites c'est fini (et c'est la faute à TDD) ([Dorra Bartaguiz](https://twitter.com/DorraBartaguiz))
 
