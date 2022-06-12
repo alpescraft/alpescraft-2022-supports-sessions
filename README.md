@@ -83,4 +83,4 @@
 
 ## Back To Basics : SRP ([Michelle Avomo](https://twitter.com/michelle_avomo) et [Christophe Thibaut](http://twitter.com/ToF_))
 
-* Bientôt
+* [Support / Diaporama](./files/back_to_basics_srp.pdf)
