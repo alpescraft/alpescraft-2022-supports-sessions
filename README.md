@@ -6,7 +6,7 @@
 
 ## Et si les micro-services n'avaient rien à voir avec la technique ? ([Yves Brissaud](https://twitter.com/_crev_))
 
-* Bientôt
+* [Support / Diaporama](https://speakerdeck.com/eunomie/alpescraft-2022-et-si-les-micro-services-navaient-rien-a-voir-avec-la-technique)
 
 ## Introduction au Clean Language ([Sarah Scarratt](https://www.linkedin.com/in/sarahscarratt2020))
 
