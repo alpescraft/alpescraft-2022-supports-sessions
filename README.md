@@ -22,7 +22,7 @@
 
 ## Experiencing team flow ([Michel Grootjans](https://twitter.com/michelgrootjans))
 
-* Bientôt
+* [Support / Diaporama](./files/experiencing_team_flow.pdf)
 
 ## Ecrire des tests Antifragiles & orientés métier grâce à l'Outside-in Diamond 🔷 TDD ([Thomas Pierrain](https://twitter.com/tpierrain))
 
