@@ -51,7 +51,7 @@
 
 ## Bonnes pratiques ux pour les devs ([Margaux perrin](https://twitter.com/Margauxlergo))
 
-* Bientôt
+* [Support / Diaporama](./files/bonnes_pratiques_ux_pour_les_devs.pdf)
 
 ## Rendez vos développeurs autonomes sur la production ([Mathieu Corbin](https://twitter.com/_mcorbin))
 
