@@ -47,7 +47,7 @@
 
 ## Charge mentale: l'ingrédient oublié pour la performance et le bien-être des équipes ([Christophe Maldivi](https://twitter.com/chmaldivi))
 
-* Bientôt
+* [Support / Diaporama](./files/charge_mentale.pdf)
 
 ## Bonnes pratiques ux pour les devs ([Margaux perrin](https://twitter.com/Margauxlergo))
 
