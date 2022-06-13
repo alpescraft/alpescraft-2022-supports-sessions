@@ -2,7 +2,7 @@
 
 ## Un monolithe pour 200 développeurs : avantages et défis ([David Gageot](https://twitter.com/dgageot))
 
-* Bientôt
+* [Support / Diaporama - en ligne](https://drive.google.com/file/d/1ovu1N0TWYdPfZHsbuw7DPL25CwlbxA0A/view)
 
 ## Et si les micro-services n'avaient rien à voir avec la technique ? ([Yves Brissaud](https://twitter.com/_crev_))
 
